@@ -1,0 +1,20 @@
+Executable : /Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/test/Downloads/VideoInfo/app/src/main/cpp
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake
+-DANDROID_ABI=armeabi
+-DANDROID_NDK=/Users/test/develop/android/ndk14
+-DANDROID_PLATFORM=android-22
+-DCMAKE_ANDROID_ARCH_ABI=armeabi
+-DCMAKE_ANDROID_NDK=/Users/test/develop/android/ndk14
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/test/Downloads/VideoInfo/app/build/intermediates/cmake/debug/obj/armeabi
+-DCMAKE_MAKE_PROGRAM=/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=22
+-B/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi
+-GNinja
+jvmArgs : 
+
+Build command args:

@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/arm64-v8a'
+[0/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/arm64-v8a

@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+    "/Users/test/develop/android/ndk14/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/mips\" clean"
+  ],
+  "buildTargetsCommand": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/mips\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-mips": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/mips\" native-lib",
+      "abi": "mips",
+      "output": "/Users/test/Downloads/VideoInfo/app/build/intermediates/cmake/debug/obj/mips/libnative-lib.so"
+    }
+  }
+}

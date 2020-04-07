@@ -1,0 +1,225 @@
+{
+  "abi": "X86",
+  "abiPlatformVersion": 22,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86",
+    "cmakeServerLogFile": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/test/Downloads/VideoInfo/app/.cxx/cxx/debug/x86",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86",
+      "cmakeToolchain": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86/pre-ndk-r15-wrapper-android.toolchain.cmake",
+      "cmakeExecutable": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86/pre-ndk-r15-wrapper-android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/test/develop/android/ndk14"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-22"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/test/develop/android/ndk14"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Users/test/Downloads/VideoInfo/app/build/intermediates/cmake/debug/obj/x86"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "22"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86",
+  "variant": {
+    "buildSystemArgumentList": [],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      ""
+    ],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/test/develop/android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/x86/pre-ndk-r15-wrapper-android.toolchain.cmake",
+      "cxxFolder": "/Users/test/Downloads/VideoInfo/app/.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "/Users/test/Downloads/VideoInfo/app/build/intermediates",
+      "makeFile": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/test/Downloads/VideoInfo/app/build.gradle",
+      "moduleRootFolder": "/Users/test/Downloads/VideoInfo/app",
+      "ndkDefaultAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64",
+        "MIPS",
+        "MIPS64"
+      ],
+      "ndkFolder": "/Users/test/develop/android/ndk14",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "MIPS",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "MIPS64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64",
+        "MIPS",
+        "MIPS64"
+      ],
+      "ndkVersion": "14.1.3816874",
+      "project": {
+        "compilerSettingsCacheFolder": "/Users/test/Downloads/VideoInfo/.cxx",
+        "cxxFolder": "/Users/test/Downloads/VideoInfo/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/Users/test/Downloads/VideoInfo",
+        "sdkFolder": "/Users/test/develop/android/sdk"
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_shared.so",
+          "ARMEABI_V7A": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_shared.so",
+          "ARM64_V8A": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_shared.so",
+          "X86": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_shared.so",
+          "X86_64": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/libgnustl_shared.so",
+          "MIPS": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/libgnustl_shared.so",
+          "MIPS64": "/Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/armeabi/libc++_shared.so",
+          "ARMEABI_V7A": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
+          "ARM64_V8A": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+          "X86": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/x86/libc++_shared.so",
+          "X86_64": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/x86_64/libc++_shared.so",
+          "MIPS": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/mips/libc++_shared.so",
+          "MIPS64": "/Users/test/develop/android/ndk14/sources/cxx-stl/llvm-libc++/libs/mips64/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/armeabi/libstlport_shared.so",
+          "ARMEABI_V7A": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/armeabi-v7a/libstlport_shared.so",
+          "ARM64_V8A": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/arm64-v8a/libstlport_shared.so",
+          "X86": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/x86/libstlport_shared.so",
+          "X86_64": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/x86_64/libstlport_shared.so",
+          "MIPS": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/mips/libstlport_shared.so",
+          "MIPS64": "/Users/test/develop/android/ndk14/sources/cxx-stl/stlport/libs/mips64/libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/Users/test/Downloads/VideoInfo/app/build/intermediates/cmake/debug/obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARMEABI",
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64",
+      "MIPS",
+      "MIPS64"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 22 min SDK version: armeabi",
+    "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "Replacing toolchain \u0027/Users/test/develop/android/ndk14/build/cmake/android.toolchain.cmake\u0027 with wrapper \u0027/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi/pre-ndk-r15-wrapper-android.toolchain.cmake\u0027",
+    "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|armeabi"
+  }
+]

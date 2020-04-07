@@ -1,0 +1,3 @@
+/Users/test/Downloads/VideoInfo/app/.cxx/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/Users/test/Downloads/VideoInfo/app/.cxx/cmake/release/mips/CMakeFiles/edit_cache.dir
+/Users/test/Downloads/VideoInfo/app/.cxx/cmake/release/mips/CMakeFiles/native-lib.dir

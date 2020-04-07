@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm  -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include -isystem /Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/test/develop/android/ndk14/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/ffmpeg.c.o   -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg.c",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg.c"
+},
+
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/cmdutils.c.o   -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/cmdutils.c",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/cmdutils.c"
+},
+
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/ffmpeg_filter.c.o   -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_filter.c",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_filter.c"
+},
+
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/ffmpeg_hw.c.o   -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_hw.c",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_hw.c"
+},
+
+{
+  "directory": "/Users/test/Downloads/VideoInfo/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/develop/android/ndk14/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/test/develop/android/ndk14/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/test/develop/android/ndk14/platforms/android-22/arch-arm -Dnative_lib_EXPORTS -I/Users/test/Downloads/VideoInfo/app/src/main/cpp/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/ffmpeg_opt.c.o   -c /Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_opt.c",
+  "file": "/Users/test/Downloads/VideoInfo/app/src/main/cpp/ffmpeg_opt.c"
+}
+]
